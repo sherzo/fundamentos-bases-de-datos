@@ -1,0 +1,9 @@
+Restricciones o Constrains
+
+Ejemplos de restricciones:
+
+Validación si una persona tiene cierta edad (> 18 años)
+El campo no puede estar vacío Not Null
+El campo no se puede repetir Unique
+Validación por comparación Check (==, >=, <=, ><)
+Un tipo de validación desde la base de datos que se me ocurre es; en un ecommerce, restringir el acceso a ofertas o descuentos especiales, a un tipo de usuario (Normal o Premium).
