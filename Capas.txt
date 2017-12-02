@@ -1,0 +1,10 @@
+Capas de abstracción del modelo Entidad-Relación
+
+
+Capa conceptual
+
+
+Capa Lógica
+
+
+Capa Física
