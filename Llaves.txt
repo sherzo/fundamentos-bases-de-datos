@@ -1,0 +1,38 @@
+Las llaves no sirven para abrir puertas (Entidades)
+
+# denota las llaves
+
+Con el ejemplo anterior
+
+Ejemplo: Esta es una entidad fuerte
+
+En este caso es una llave compuesta (La compoenen el ID y el num de seguridad social)
+
+	Persona        
+# ID 				   	num()
+# Seguridad social	   	char(15)
+* Edad					num(3)
+* Fecha de nacimiento	timestamp
+* Ocupación				char(40)
+* Profesión				char(65)
+* Colo favorito			char(70)
+* Numero de telefono	num(10)
+
+
+----------------------------------
+
+Segundo ejemplo la relacion con llaves
+ 
+Foreign key
+
+	Persona
+# ID 				num
+# Seguirdad social	char(15)
+# FK Indicativo		
+# FK Numero 		(Llaves foreneas)
+
+
+	Telefono
+# Indicativo	num(4)
+# Numero		num(12)
+0 fijo			bit (true, false)
