@@ -1,0 +1,10 @@
+Es una abstración del mundo real  (Puede ser cualquier Objeto, pensamiento, ser)
+una entidad puede ser una casa
+* Puertas
+* Ventanas
+* Techo 
+
+Una casa puede tener varias Personas (Esto puede ser otra entidad)
+
+Personas ----------- Casa 
+		  (Relación)
