@@ -2,12 +2,12 @@ Las bases de datos indexan a travez de una algoritmo llamado (arboles de mas)
 
 (Arboles de tres ramas) Entre mas registros mas lenta es la indexación
 
-			   |
-	___________|___________
-	|   	   |	      | 
- ___|__________|__________|___
- |	|  |    |  |  |    |  |	 |	
- |	|  |    |  |  |    |  |	 |	
+	        |
+     ___________|___________
+     |   	|	   | 
+ ____|__________|__________|___
+ |   |  |    |  |  |    |  |  |	
+ |   |  |    |  |  |    |  |  |	
 
  Existe vistas materializadas preview y overwiev de datos
 
