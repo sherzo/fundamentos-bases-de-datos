@@ -1,0 +1,22 @@
+Relaciones entes entidad 
+
+Linea punteada relacion no obligatoria
+------------------
+
+Linea continua Obligratoriedad
+__________________
+
+
+} Pata de gallo Denota (muchos)
+
+
+Tipos de relaciones
+0 - 1 ------------ (ej. pasaporte)
+1 - 1 _______ (ej. numero de identificación del ciudadano)
+0 - M ----------- { (ej. cantidad dispositivos electrónicos
+1 - M _______ { (ej. nro de cursos que estoy tomando)
+M - M }-----------{
+
+
+
+
