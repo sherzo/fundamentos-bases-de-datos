@@ -1,0 +1,23 @@
+Los ID (Identificadores se recomiendas datos numericos)
+Porque es mas rapido para el motor de BD buscar en números ya que son 9
+[0, 9] [a, z]
+
+Denotación de las datos
+
+# Indice 
+0 Opcional
+* Obligatiorio
+
+Ejemplo: Esta es una entidad fuerte
+
+	Persona        
+* ID 				   	num()
+0 Seguridad social	   	char(15)
+* Edad					num(3)
+* Fecha de nacimiento	timestamp
+0 Ocupación				char(40)
+0 Profesión				char(65)
+* Colo favorito			char(70)
+* Numero de telefono	num(10)
+
+Depende de la BD que estoy modelando los datos sera obligatorios o no
